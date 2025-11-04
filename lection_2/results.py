@@ -1,0 +1,12 @@
+RESULTS = ['MARIO', 'LUIGI']
+RESULTS.append('PEACH')
+RESULTS.remove('LUIGI')
+RESULTS.append('TOAD')
+RESULTS.append('BOWSER')
+RESULTS.extend(['YOSHI', 'DAISY', 'WARIO'])
+RESULTS.insert(0,'LUIGI')
+print('Normal results:',RESULTS)
+RESULTS.reverse()
+print('reverse results:',RESULTS)
+RESULTS.sort()
+print('sorted results:',RESULTS)
