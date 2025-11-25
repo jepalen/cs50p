@@ -6,6 +6,7 @@ python Harvard course
     lection_3: Exceptions
     lection_4: libraries
     lection_5: testing
+    lection_6: I/O files
 
 # Jeff P. 
 information contained here is, and remains mine and is for education purpose, feel free to see and use it, it is code for learning the cs50P course, but don't be lazy 
