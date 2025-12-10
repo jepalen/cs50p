@@ -26,6 +26,5 @@ def test_str():
     with pytest.raises(TypeError):
         expo("cat", 2)
 
-
 if __name__ == "__main__":
     main()
